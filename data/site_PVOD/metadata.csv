@@ -1,0 +1,221 @@
+﻿Station_ID,Capacity,PV_Technology,Panel_Size,Module,Inverters,Layout,Panel_Number,Array_Tilt,Pyranometer,Longitude,Latitude
+station00,6600,Poly-Si,1.6236,"products types:LW255(29)P1640×990
+Pmax:255 Wp
+Vmpp:30.1 V
+Impp:8.48 A
+manufacturer:Lightwaysolar","products types:NSG-500K3TL
+Max. DC input:560 kW
+Max. DC voltage: 1000 V
+Max. DC current: 1120 A
+Rated power: 500 kW
+manufacturer:ZOF new energy","modules per string:20
+strings per inverter:96",26000,South 33°,"GHI: 
+products types: TBQ-2
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.
+DHI:
+products types: TBD-1
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.",114.95139,38.04778
+station01,20000,Poly-Si,1.6635,"products types:LW6P60-270
+Pmax:270 Wp
+Vmpp:30.52 V
+Impp:8.86 A
+manufacturer:Lightwaysolar","products types:TC500KH
+Max. DC input:618 kW
+Max. DC voltage: 1000 V
+Max. DC current: 1344 A
+Rated power: 500 kW
+manufacturer:tbeapower","modules per string:22
+strings per inverter:128",74000,South 33°,"GHI: 
+products types: TBQ-2
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.
+DHI:
+products types: TBQ-2
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.",117.45722,38.18306
+station02,17000,Mono-Si,1.6368,"products types:RSM60-6-285M
+Pmax:285 Wp
+Vmpp:31.4 V
+Impp:9.08 A
+manufacturer:risenenergy","products types:SG50KTL-M
+Max. DC input:-
+Max. DC voltage: 1100 V
+Max. DC current: 100 A
+Rated power: 55 kW
+manufacturer:sungrowpower","modules per string:22
+strings per inverter:8",64064,South 29°,"GHI: 
+products types: TBQ-2
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.
+DHI:
+products types: TBD-1
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.",114.19887,38.05728
+station03,20000,Poly-Si,1.62,"products types:HTMP265P4-60
+Pmax:265 Wp
+Vmpp:30.93 V
+Impp:8.57 A
+manufacturer:htsolargroup","products types:PVL-L1000E
+Max. DC input:-
+Max. DC voltage: 1000 V
+Max. DC current: 1344 A
+Rated power: 1000 kW
+manufacturer:Toshiba Mitsubishi-Electric Industrial System Corporation","modules per string:22
+strings per inverter:16",75460,South 33°,"GHI: 
+products types: TBQ-2L
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Licheng Automation Equipment Co., LTD
+DHI:
+products types: TBQ-2LJ
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Licheng Automation Equipment Co., LTD",114.11494,38.10956
+station04,20000,Poly-Si,1.6368,"products types:YL265P-29b
+Pmax:265 Wp
+Vmpp:30.3 V
+Impp:8.59 A
+manufacturer:Yingli","products types:SG1000
+Max. DC input:560 kW
+Max. DC voltage: 1000 V
+Max. DC current: 1220 A
+Rated power: 1000 kW
+manufacturer:sungrowpower","modules per string:22
+strings per inverter:86",75680,South 37°,"GHI: 
+products types: TBQ-2
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.
+DHI:
+products types: TBD-1
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.",114.86767,39.5155
+station05,35000,Poly-Si,1.63515,"products types:LR6-60-305M
+Pmax:305 Wp
+Vmpp: 31.13 V
+Impp:9.49 A
+manufacturer:Longi","products types:SG1250UD
+Max. DC input:618 kW
+Max. DC voltage: 1100 V
+Max. DC current: 1356 A
+Rated power: 1250 kW
+manufacturer:sungrowpower","modules per string:22
+strings per inverter:160",114972,South 33°,"GHI: 
+products types: TBQ-2
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.
+DHI:
+products types: TBD-1
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.",114.1236,38.2355
+station06,15000,Poly-Si,1.6335,"products types:JAP60S01-270/SC
+Pmax:270 Wp
+Vmpp:31.13 V
+Impp:8.67 A
+manufacturer:Lightwaysolar","products types:SG50KTL-M
+Max. DC input:-
+Max. DC voltage: 1100 V
+Max. DC current: 100 A
+Rated power: 55 kW
+manufacturer:sungrowpower","modules per string:24
+strings per inverter:8",56608,South 34°,"GHI: 
+products types: TBQ-2
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.
+DHI:
+products types: TBD-1
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.",114.54841,36.89891
+station07,20000,Poly-Si,1.6335,"products types:YL250P-29b
+Pmax:250 Wp
+Vmpp:29.8 V
+Impp:8.39 A
+manufacturer:Yingli","products types:TC500KH
+Max. DC input:618 kW
+Max. DC voltage: 1000 V
+Max. DC current: 1344 A
+Rated power: 500 kW
+manufacturer:tbeapower","modules per string:20
+strings per inverter:100",80000,South 31°,"GHI: 
+products types: TBQ-2L
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 4 years
+manufacturer: Jinzhou Licheng Automation Equipment Co., LTD
+DHI:
+products types: TBQ-2LJ
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Licheng Automation Equipment Co., LTD",113.64187,36.64403
+station08,20000,Poly-Si,1.6335,"products types:YL265C-30b
+Pmax:265 Wp
+Vmpp:31 V
+Impp:8.55 A
+manufacturer:Yingli","products types:SUN2000-40KTL
+Max. DC input: 40.8 kW
+Max. DC voltage: 1000 V
+Max. DC current: 23 A 
+Rated power: 36 kW
+manufacturer:Huawei","modules per string:22
+strings per inverter:5",78042,South 33°,"GHI: 
+products types: TBQ-2
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.
+DHI:
+products types: TBD-1
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.",113.89999,36.70761
+station09,20000,Poly-Si,1.6137,"products types:YL265P-29B-265W
+Pmax:265 Wp
+Vmpp:30.5 V
+Impp:8.7 A
+manufacturer:Yingli","products types:GSL0630T
+Max. DC input:690 kW
+Max. DC voltage: 1000 V
+Max. DC current: 1440 A
+Rated power: 630 kW
+manufacturer:kstar","modules per string:24
+strings per inverter:128",84480,South 31°,"GHI: 
+products types: TBQ-2
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.
+DHI:
+products types: TBD-1
+measurement accuracy: ±5%
+measurement range:0-2000 W/m^2
+calibration period: 2 years
+manufacturer: Jinzhou Sunshine Meteorological Technology Co., Ltd.",115.059855,38.731417
