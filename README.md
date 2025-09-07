@@ -11,7 +11,7 @@ Dataset C & D: Sourced from the publicly released [POVD repository (Sites 01 and
  
  | Dataset | Resolution | Time Span | Length | Max | Min | Mean | Variance |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| A | 5min | 2021/3/1~2020/6/1 | 26496 | 11.52 | 0 | 2.28 | 3.08 |
+| A | 5min | 2021/3/1~2021/6/1 | 26496 | 11.52 | 0 | 2.28 | 3.08 |
 | B |  |  |  | 6.11 | 0 | 1.39 | 1.9 |
 | C | 15min | 2018/6/30~2019/6/13 | 33408 | 20 | 0 | 3.68 | 5.55 |
 | D |  | 2019/1/11~2019/6/13 |  | 17.42 | 0 | 3.37 | 4.97 |
